@@ -2,32 +2,33 @@
     {
       "id": "1",
       "course_name": "Economics",
-      "description": "Economics"
+      "description": "Economics is the study of how people allocate scarce resources for production, distribution, and consumption, both individually and collectively. The two branches of economics are microeconomics and macroeconomics. Economics focuses on efficiency in production and exchange."
       
     },
     {
       "id": "2",
       "course_name": "Physics",
-      "description": "Physics"
+      "description": "Covering discoveries in mathematics, computer science, physics and biology. Learn about fundamental advances in math and science. Nonprofit Magazine. Pulitzer Prize Winner. Ad-Free Science News. Brands: Ad-free science news, advances in basic math."
     },
     {
       "id": "3",
       "course_name": "Chemistry",
-      "description": "Chemistry"
+      "description": "Chemistry is essential for meeting our basic needs of food, clothing, shelter, health, energy, and clean air, water, and soil. Chemical technologies enrich our quality of life in numerous ways by providing new solutions to problems in health, materials, and energy usage."
     },
     {
       "id": "4",
       "course_name": "Social Science",
-      "description": "Science"
+      "description": "Why is social science important? The social sciences are important because they help people understand how to analyze not only their own behavior but also the behavior and motivations of their peers. The social sciences also give us a better understanding of how to create more inclusive and effective institutions."
     },
     {
       "id": "5",
       "course_name": "Biology",
-      "description": "Biology"
+      "description": "Biology is a branch of science that deals with living organisms and their vital processes. Biology encompasses diverse fields, including botany, conservation, ecology, evolution, genetics, marine biology, medicine, microbiology, molecular biology, physiology, and zoology"
     },
     {
       "id": "6",
+      
       "course_name": "Higher Mathmatics",
-      "description": "Higher Mathmatics"
+      "description": "the advanced portions of mathematics, customarily considered as embracing all beyond ordinary arithmetic, geometry, algebra, and trigonometry."
     }
   ]
